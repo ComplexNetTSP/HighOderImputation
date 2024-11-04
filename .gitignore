@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+lib/data/__pycache__/
+scrips/logs/
+lib/utils/__pycache__/
+datasets/air_quality/full437.h5
+lib/utils/__pycache__/
